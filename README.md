@@ -28,12 +28,6 @@ MAANA is implemented as an [Apache Maven project](https://maven.apache.org/) and
 8. Select the pom file and click *Finish*
 9. You will the maven project *lu.svv.saa.maana* imported to your workspace in Eclipse 
 
-To avoid dependenncy problems, we included in *maana-source* the library jar file *ws4j-1.0.0.jar*. For importing this into your project, follow these steps:
-1. right click on the project, then select *Build Path>Configure Build Path...*
-2. select *Add External JARs...*
-3. browse to where the library is located and click open
-4. click on *Apply and Close*
-
 ### Run the jar file 
 
 The required files for running the instructions described below are located in *example.zip*, specifically: 
