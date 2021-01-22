@@ -28,30 +28,11 @@ MAANA is implemented as an [Apache Maven project](https://maven.apache.org/) and
 8. Select the pom file and click *Finish*
 9. You will the maven project *lu.svv.saa.maana* imported to your workspace in Eclipse 
 
-### Run the jar file 
-
-The required files for running the instructions described below are located in *example.zip*, specifically: 
-* *sample.txt* is a plain text file that contains **19** requirements selected randomly from the **Satellite** domain. 
-Each requirement is a single sentence on a separate line. 
-* *sample-groundtruth.txt* is the corresponding ground-truth file to the sample requirements.
-* *run.jar* the executable jar file that deploys a minimal version of *MAANA* tool. 
-* *corpus/mini-corpus/* folder contains a minimal domain-specific corpus generated from the Satellite domain with a reduced size.  
-* *evaluate.py* is a python script for evaluating the output (as explained below).
-
-## Getting the Project
-
-- Clone the [GitHub repository *MAANA*](https://github.com/SNTSVV/MAANA) to your local machine
-- Extract the *example.zip* file
-- Navigate to the *./MAANA/example* folder on your local machine
-```
-cd path/to/MAANA/example/
-```
-
-## Usage Example
+### Usage Example
 
 The required files for running the instructions described below are located in example.zip.
 
-### Running the jar file 
+#### Running the jar file 
 
 - For a **simple run** (running MAANA on *sample.txt*), use the following command: 
 ```
@@ -81,7 +62,7 @@ Where the arguments:
 | 7             | Security       |
     
 
-### Output of MAANA
+#### Output of MAANA
 
 Once the execution is completed, one CSV file (for both ambiguity types) will be created. In the case of *sample.txt*, the output file *sample-ambiguity.csv* is generated. 
 
@@ -100,7 +81,7 @@ The first two lines in the *sample-ambiguity.csv* should look as follows:
 | -------------------------------------------------------------------------------------------------------- | :--------------: | :------------: | -------------- |
 | Service availability shall measure the outage of LEO satellites and terminals.                           | 49               | CA             | 0              |
 
-### Evaluating the Results of MAANA 
+#### Evaluating the Results of MAANA 
 
 - Note that for running the python script successfully, you need to have python 3 installed. See the *Requirements File* for more details.
 - Use *evaluate.py* for evaluating any output file against the corresponding ground-truth file with the following command: 
