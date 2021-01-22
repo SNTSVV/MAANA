@@ -1,1 +1,2 @@
 Corpora.zip filter=lfs diff=lfs merge=lfs -text
+example.zip filter=lfs diff=lfs merge=lfs -text
