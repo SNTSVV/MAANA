@@ -30,11 +30,15 @@ MAANA is implemented as an [Apache Maven project](https://maven.apache.org/) and
 
 ### Usage Example
 
-For a usage example, see the *Installation File*.
+For a usage example, see the [*Installation File*](https://github.com/SNTSVV/MAANA/blob/main/Installation.md).
 
 ### Installation Requirements
 
-For more details, see the *Installation-Requirements File*.
+For more details, see the [*Installation-Requirements File*](https://github.com/SNTSVV/MAANA/blob/main/Installation-Requirements.md).
+
+## Setting-up Wikipedia
+
+For instructions about how to use Wikipedia in our project, see the [*Additional Instructions File*](https://github.com/SNTSVV/MAANA/blob/main/Additional-Instructions.md).
 
 ## How to cite?
 If you wish to use or compare with MAANA, please cite the following paper:
@@ -44,10 +48,6 @@ requirements. In 43rd International Conference on Software Engineering (ICSE).
 ## License
 
 MAANA is licensed under MIT License.
-
-## Setting-up Wikipedia
-
-For instructions about how to use Wikipedia in our project, see the Additional Instruction File.
 
 **Copyright (c) 2021 University of Luxembourg**
 
