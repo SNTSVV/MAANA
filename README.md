@@ -15,7 +15,7 @@ We release the following artifacts:
 In "Ground-Truth", we provide both (a) the reconciled decisions (our gold standard) derived from the the annotators' input and (b) the raw input from the individual annotators.
 
 ## How to use MAANA?  
-MAANA is implemented as an [Apache Maven project](https://maven.apache.org/) and builds on the [Apache UIMA framework](http://uima.apache.org). For a comeplete list of the system requirements, see the *Requirements File*. 
+MAANA is implemented as an [Apache Maven project](https://maven.apache.org/) and builds on the [Apache UIMA framework](http://uima.apache.org). For a complete list of the system requirements, see the [*Requirements File*](https://github.com/SNTSVV/MAANA/blob/main/Installation-Requirements.md). 
 
 ### Import in Eclipse 
 1. download the compressed project *maana-source.zip* to your local machine
