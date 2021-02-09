@@ -9,8 +9,8 @@ The tool was developed at SnT / University of Luxembourg with funding from Luxem
 
 We release the following artifacts: 
 * **./maana-source.zip**: is a compressed version of the Maven project with the source code. Instructions about reusing this compressed version are provided below.
-* **./Corpora.zip**: contains the seven domain-specific corpora that we generated for the empirical evaluation of our ICSE technical paper (mentioned above).
-* **./example.zip**: includes an executable jar file (*run.jar*) for running our implementation, sample requirements (*sample.txt*) that are randomly selected from the *Satellite* domain, the groundtruth file for the sample requirements (*sample-groundtruth.csv*), and a python script for evaluating the output of MAANA (*evaluate.py*). 
+* **./Corpora.zip**: contains the seven domain-specific corpora that we generated for the empirical evaluation of our ICSE technical paper (mentioned above). Corpora.zip can be obtained at this [link](https://uniluxembourg-my.sharepoint.com/:u:/g/personal/saad_ezzini_uni_lu/EdjNzgV4i3dNieb7vxjD_WwBsGjjGD-xFMPINbwL1XZkYw?e=RY8Ftr).
+* **./example.zip**: includes an executable jar file (*run.jar*) for running our implementation, sample requirements (*sample.txt*) that are randomly selected from the *Satellite* domain, the groundtruth file for the sample requirements (*sample-groundtruth.csv*), and a python script for evaluating the output of MAANA (*evaluate.py*). example.zip can be obtained at this [link](https://uniluxembourg-my.sharepoint.com/:u:/g/personal/saad_ezzini_uni_lu/EazNst_kVBZDqcukUkRXwI0BcZSAUKjY2QIoYFCN9BAAAw?e=YUNUUS).
 * **./Data.zip**: includes the non-proprietary requirements documents which we use in our evaluation in subfolder "Documents/", as well as the corresponding ground truth in subfolder "Ground-Truth". 
 In "Ground-Truth", we provide both (a) the reconciled decisions (our gold standard) derived from the the annotators' input and (b) the raw input from the individual annotators.
 
