@@ -14,6 +14,9 @@ Each requirement is a single sentence on a separate line.
 ## Getting the Project
 
 - Clone the [GitHub repository *MAANA*](https://github.com/SNTSVV/MAANA) (or get it from [Zenodo](https://zenodo.org/record/4457189)) to your local machine
+```
+git clone https://github.com/SNTSVV/MAANA.git
+```
 - Extract the *example.zip* file
 - Navigate to the *./MAANA/example* folder on your local machine
 ```
