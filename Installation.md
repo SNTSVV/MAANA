@@ -17,10 +17,10 @@ Each requirement is a single sentence on a separate line.
 ```
 git clone https://github.com/SNTSVV/MAANA.git
 ```
-- Extract the *example.zip* file
-- Navigate to the *./MAANA/example* folder on your local machine
+- Download and extract the [*example.zip*](https://uniluxembourg-my.sharepoint.com/:u:/g/personal/saad_ezzini_uni_lu/EazNst_kVBZDqcukUkRXwI0BcZSAUKjY2QIoYFCN9BAAAw?e=YUNUUS) file
+- Navigate to the *./example* folder on your local machine
 ```
-cd path/to/MAANA/example/
+cd path/to/example/
 ```
 
 ## Running MAANA using run.jar 
