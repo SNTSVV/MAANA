@@ -22,7 +22,7 @@ git clone https://github.com/SNTSVV/MAANA.git
 ```
 cd path/to/example/
 ```
-- To use one of the seven corpora we have in our paper, download and extract the [*Corpora.zip*](https://uniluxembourg-my.sharepoint.com/:u:/g/personal/saad_ezzini_uni_lu/EdjNzgV4i3dNieb7vxjD_WwBsGjjGD-xFMPINbwL1XZkYw?e=RY8Ftr) file
+- To use one of the seven corpora we have in our paper, download and extract the [*Corpora.zip*](https://uniluxembourg-my.sharepoint.com/:u:/g/personal/saad_ezzini_uni_lu/EdjNzgV4i3dNieb7vxjD_WwBsGjjGD-xFMPINbwL1XZkYw?e=RY8Ftr) file and put its content inside '''example/corpus/''' folder
 
 ## Running MAANA using run.jar 
 
