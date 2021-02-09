@@ -45,6 +45,10 @@ requirements. In 43rd International Conference on Software Engineering (ICSE).
 
 MAANA is licensed under MIT License.
 
+## Setting-up Wikipedia
+
+For instructions about how to use Wikipedia in our project, see the Additional Instruction File.
+
 **Copyright (c) 2021 University of Luxembourg**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this
