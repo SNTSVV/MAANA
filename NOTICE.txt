@@ -1,0 +1,17 @@
+"MAANA" is © 2022 University of Luxembourg
+and is distributed under the GPL license.
+
+Authors:
+  	
+	Saad EZZINI <saad.ezzini@uni.lu>
+	Sallam ABUALHAIJA <sallam.abuahaija@uni.lu>
+	Chetan Arora
+	Mehrdad Sabetzadeh
+	Lionel BRIAND 
+
+Paper:
+  - "Using Domain-specific Corpora for Improved Handling of Ambiguity in Requirements", ICSE 2021
+
+"MAANA" includes the following open source components:
+	- Binaries of uimafit, DKPro and apache commons under Apache License-DKPro.coreunder Apache License
+	- Binaries of extJWNL under BSD License
